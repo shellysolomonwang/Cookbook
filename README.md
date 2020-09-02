@@ -2,7 +2,7 @@
 
 # Web Scraping & EDA
 Please see
-/Scrape
+/Scraping_EDA
 
 # K-means Clustering
 /cluster.ipynb
