@@ -2,7 +2,7 @@
 
 # Web Scraping & EDA
 Please see
-/BIA660_Mid-term_Report
+/Scrape
 
 # K-means Clustering
 /cluster.ipynb
